@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "ClarityCity";
+    src: url("../public/fonts/ClarityCity-Regular.otf");
+  }

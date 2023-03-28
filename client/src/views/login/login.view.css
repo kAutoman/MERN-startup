@@ -1,0 +1,15 @@
+#login{
+    padding-top: 200px;
+}
+
+*{
+    font-family: "ClarityCity";
+}
+
+#form-group{
+    margin-top: 40px;
+}
+
+.thumbs-wrapper {
+    text-align: center !important;
+}
